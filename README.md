@@ -3,8 +3,6 @@ CALCULO PARA EL DIGITO VERIFICADOR UTILIZADO EN EL SISTEMA SAM 2000 DEL BANCO DE
 
 Este cálculo se realizó para un cliente que necesitaba un sistema urgente debido a la baja de su antiguo programador. Ni conte con información previa, por lo que tuve que recurrir a la ingeniería inversa. 
 
-El cácluco está basado en el algoritmo xxx pero con una vuelta de tuerca, ya que al resultado se le resta 1 o en el caso de ser 10 se le asigna el valor arbitrario 9. 
-
 En el ejemplo utilizado los valores a obtenidos del usuario son CUIT y período, esto puede cambiar de acuerdo a cada cliente. Utilizo operaciones aritmeticas, arrays y la función ceil().  
 
 Gabriel Gomez (gabrielgagz) 
